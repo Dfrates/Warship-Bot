@@ -1,0 +1,75 @@
+[
+  {
+    "emoji": "⚓",
+    "name": "Mini Frigate",
+    "rarity": "common",
+    "attack": 3,
+    "defense": 2,
+    "passive": {
+      "type": "defense_boost",
+      "value": 0.05,
+      "description": "Increases total fleet defense by 5%."
+    }
+  },
+  {
+    "emoji": "🐀",
+    "name": "Rust Rat",
+    "rarity": "common",
+    "attack": 2,
+    "defense": 3,
+    "passive": {
+      "type": "loot_boost",
+      "value": 0.1,
+      "description": "10% chance to gain extra scrap on missions."
+    }
+  },
+  {
+    "emoji": "🐙",
+    "name": "Kraken Drone",
+    "rarity": "rare",
+    "attack": 5,
+    "defense": 5,
+    "passive": {
+      "type": "mission_success",
+      "value": 0.05,
+      "description": "Improves mission success chance by 5%."
+    }
+  },
+  {
+    "emoji": "🐉",
+    "name": "Sea Dragon-Class",
+    "rarity": "epic",
+    "attack": 8,
+    "defense": 6,
+    "passive": {
+      "type": "daily_bonus",
+      "value": 0.1,
+      "description": "Earns +10% daily scrap."
+    }
+  },
+  {
+    "emoji": "🚢",
+    "name": "HMS Thunderpaw",
+    "rarity": "legendary",
+    "attack": 10,
+    "defense": 9,
+    "passive": {
+      "type": "mission_success",
+      "value": 0.1,
+      "description": "Boosts mission success chance by 10%."
+    }
+  },
+  {
+    "emoji": "🪼",
+    "name": "Jelly Ship",
+    "rarity": "mythic",
+    "attack": 15,
+    "defense": 5,
+    "passive": {
+      "type": "attack_boost",
+      "value": 0.2,
+      "description": "Increase total fleet attack by 20%."
+    }
+  }
+
+]
