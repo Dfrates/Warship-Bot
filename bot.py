@@ -291,4 +291,4 @@ async def fleet(ctx):
     )
     await ctx.send(embed=embed)
 
-bot.run("token")
+bot.run(os.getenv("BOT_TOKEN"))
